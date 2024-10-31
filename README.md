@@ -1,8 +1,8 @@
 # Flex Navbar
 
 #### Objectives
-- Practice using display: flex;
-- Practice using align-items and justify-content
+- Practice using `display: flex`;
+- Practice using `align-items` and `justify-content`
 
 Using the following **HTML**
 
@@ -10,11 +10,12 @@ Using the following **HTML**
 
 Style it using CSS to resemble the following navigation bar
 
+
 ![alt text](image-1.png)
 
 <hr/>
 
-- [x] Use the supplied HTML code snippet to recreate the image using flex.
+- [x] Use the supplied HTML code snippet to recreate the image using `flex`.
 
 - [x] (optional) Use google font Roboto [https://fonts.google.com/specimen/Roboto?preview.text_type=custom]
 
